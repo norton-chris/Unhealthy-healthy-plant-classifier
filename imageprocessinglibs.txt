@@ -1,0 +1,9 @@
+Image processing libraries:
+skimage regionprops - haven't figured out how to use this yet, but it should extract the leaves from the image
+edge detection with Canny, laplacian, sobel
+cv2 threshold - creates a binary image
+connected components - connects the lines from the edge detector and the binary image
+cv2 resize - resizes the image
+boundingRect - this creates a bounding box
+findContours - pretty much edge detection
+

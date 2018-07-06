@@ -1,0 +1,10 @@
+Steps to create plant classifier for healthy and unhealthy plants:
+organize images in folders
+Read in the images
+crop the images
+	to do this we need to detect the edges
+	then from the edges figure out how to crop around the edges
+create the model
+train the model
+fit the model
+and test the model
