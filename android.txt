@@ -1,0 +1,3 @@
+title=camera_app
+author=me
+orientation=portrait

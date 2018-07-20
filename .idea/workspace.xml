@@ -1,7 +1,416 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af08d09d-3510-4db1-a994-c321fb5dbe49" name="Default" comment="" />
+    <list default="true" id="af08d09d-3510-4db1-a994-c321fb5dbe49" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Android_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CameraApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anothercameratest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcamera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/FinalProject-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/FinalProject-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinalProject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-01-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-01-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-02-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-04-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-05-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-06-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-07-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-07-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-08-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-08-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-09-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1037-10-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-01-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-01-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-02-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-02-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-03-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-03-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-05-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-06-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-06-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-07-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-07-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-08-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-08-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-09-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-09-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-10-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1038-10-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-01-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-01-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-02-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-03-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-04-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-04-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-05-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-06-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-07-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-08-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1039-10-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1226-01-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1226-04-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1226-04-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1226-10-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1226-10-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1227-09-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1227-10-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1227-10-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1228-01-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1228-01-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1228-05-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1228-10-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1228-10-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1298-01-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1298-02-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1298-06-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1298-06-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1298-06-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1298-07-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1298-07-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1298-08-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1298-09-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1298-10-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1299-01-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1299-01-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1299-02-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1299-02-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1299-04-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1299-04-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1299-05-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1299-07-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1299-09-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1299-10-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1300-01-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1300-04-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb1300-06-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-01-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-02-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-03-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-03-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-05-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-05-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-06-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-06-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-09-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-10-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8001-10-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8002-01-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8002-02-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8002-02-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8002-05-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8002-05-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8002-10-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8002-10-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8003-01-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8003-06-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8003-07-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8003-10-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8003-10-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Healthy_Leaves/wb8003-11-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/00e909aa-e3ae-4558-9961-336bb0f35db3___JR_FrgE.S 8593.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/0208f4eb-45a4-4399-904e-989ac2c6257c___FREC_Scab 3037.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/05fd8037-fd27-4d26-9e5d-9a47856ab134___JR_FrgE.S 8770.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/0c8432e0-0484-470c-a774-7cce596b9e64___JR_FrgE.S 2841.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/0ca16873-eeac-47e9-9a87-1859950daab7___JR_FrgE.S 2835.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/0cefbd12-c195-40cd-b2d1-be0f9ee550b4___JR_FrgE.S 8762.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/13daa7ca-c343-497d-a9c5-34438752ab1f___JR_FrgE.S 8804.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/1452dba2-3694-4657-ac64-fed65ebea056___JR_FrgE.S 3081.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/169b07da-12eb-4a6d-9b24-f37692ca923d___JR_FrgE.S 8636.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/1a899717-5445-4d2b-8035-91bc47780504___JR_FrgE.S 8806.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/1d0e83a0-f3c0-4c14-b1d6-b0ceee3552ac___JR_FrgE.S 3006.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/1e0244a0-b084-4f95-bf64-72efeef4dff2___JR_FrgE.S 8733.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/1e2149c8-f9ed-49b2-a8c2-2e8b2046d0f7___JR_FrgE.S 2965.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/255dd1a9-d4cf-4b38-9872-8f8bc6746703___JR_FrgE.S 3040.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/26cdf0b5-906d-4341-a07b-d8d9ec21cda7___FREC_Pwd.M 5151.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/27338275-3c75-4bbf-8d74-7b90e9d224d3___FREC_Scab 3269.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/28f01d7f-27f8-4cf1-a473-ef4744b2dc61___JR_FrgE.S 8597.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/2aa2ed70-b0b7-4d30-9c84-f6ded6a03fc2___JR_FrgE.S 8739.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/30f5084a-f9c5-4ba0-839f-c000a0ad0608___FREC_Pwd.M 5131.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/352a5659-3552-4e94-8333-c3715d38cc27___FREC_Scab 3049.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/35b68c2b-4d91-484c-ab0c-6347ba6ce974___JR_FrgE.S 8615.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/35fde58e-46ea-4d1b-9580-ead7a2d0cb3b___FREC_Scab 2952.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/37659856-0fc8-430b-871a-af4f0b557e49___FREC_Scab 3081.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/394b4c4e-096d-4a4e-9498-8a18f240ab18___JR_FrgE.S 2855.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/3afb0100-58b4-4825-bfb4-037258cd5925___JR_FrgE.S 8755.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/3f7dbd31-47f7-45e4-aa23-42e23362a15d___JR_FrgE.S 2818.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/40df2c3f-673e-4da8-a172-65fd5a656c1d___FREC_Scab 2957.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/419c16b2-13aa-485b-8342-3760707e21f9___FREC_Scab 3285.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/43712608-0fa2-4be2-91a0-242aca469cb4___FREC_Scab 2985.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/464511a6-77d9-493f-bb3c-f151fb390f1b___JR_FrgE.S 8790.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/4747a926-7eee-49a1-b28b-a8cc8a555fa7___JR_FrgE.S 2952.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/48dcb319-8b65-4bac-bba4-aa8ffa8abdd0___FREC_Scab 3519.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/4f71c078-e0f6-4b05-a421-1b644f0e99a1___JR_FrgE.S 3016.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/4fcfd5b0-e312-41f4-a8cf-16976b5882fd___JR_FrgE.S 8589.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/56aa2b6a-6a51-4755-b314-0e9486c53075___JR_FrgE.S 8736.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/58ebc44b-c9b7-441b-9aa1-bfcc1b90e21e___JR_FrgE.S 8582.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/5984db18-75d7-4c3a-be4b-74c3c0351887___JR_FrgE.S 8685.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/5b5a11ac-da33-4eb4-b0a3-2ef746f744f4___JR_FrgE.S 8576.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/5c0af4dd-f185-4fc9-ae2c-a697a235d660___FREC_Scab 2955.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/5dea1611-b335-47f7-aa30-e6856f668c80___JR_FrgE.S 2968.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/6383ae21-b6d0-4b70-bc85-ba2640aa7af2___JR_FrgE.S 8754.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/64577b36-9701-43be-a559-10f787f2d185___JR_FrgE.S 8611.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/6823f5d3-b27b-4a34-a417-5fc5bd99f9d7___FREC_Scab 2975.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/6cc6804c-7b02-42a5-86ae-92add86eb89d___JR_FrgE.S 2825.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/6f38c615-281d-4bf5-8d92-7c02d3ef9e1b___JR_FrgE.S 8753.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/7e56a062-a114-49ac-b029-292e4f0a68ff___JR_FrgE.S 8783.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/7fb51374-f3ae-4dc9-8e0b-f25552528852___JR_FrgE.S 2894.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/83ec5e47-c1db-4889-9725-9c2daab2d112___JR_FrgE.S 8583.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/842d3c43-4e5a-49aa-95b1-fb7e9be3d133___JR_FrgE.S 2802.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/8ea23363-e8ad-4e80-a02e-1eb9b80e9a76___FREC_Pwd.M 5155.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/9b5bb550-6b75-47a3-a702-08ef34def9ff___JR_FrgE.S 8743.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/9f05f403-78c7-4a14-9c4d-452f433745eb___JR_FrgE.S 3091.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/a157b760-a19d-4e6b-a319-29b63106de45___JR_FrgE.S 2751.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/a2e4f04e-63f9-4c66-aa1b-bf0f0b6937dc___JR_FrgE.S 8756.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/a2eb846a-da47-4d4d-97db-d954a20bb22a___JR_FrgE.S 2868.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/a31b7944-c213-4b83-a586-004d0522e355___FREC_Scab 3341.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/a50f7480-3c37-4b00-8b5a-d42740523748___JR_FrgE.S 8748.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/ab496771-c3b7-4c15-8cf1-d90455ab05cc___JR_FrgE.S 8573.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/aba69098-9c79-46cc-ba1f-6f88a456b56f___FREC_Scab 3039.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/ac3ae45a-aaff-44c0-979d-6a2a8ba50ccf___FREC_Scab 3520.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/acb4845c-bee1-478c-b11c-ade0ae397c51___JR_FrgE.S 8818.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/ad7637de-7c1f-4ec7-a3d6-14032337a6c3___FREC_Pwd.M 5163.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/b0fce660-5598-4007-b8d0-7cbd643edb9e___JR_FrgE.S 2851.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/b2d126c0-49f9-4013-a6bf-2c08ffe87f94___JR_FrgE.S 2865.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/b3bd5eb8-caa5-4a52-8c90-2a47bd450d93___JR_FrgE.S 2830.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/b4dd08e1-926f-41e0-b266-c2f37cea3203___FREC_Scab 3030.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/b94f7192-3ed3-4dfa-83a6-570142a8b795___JR_FrgE.S 8687.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/bc64857e-c087-44c9-83b5-514d9b8dea37___JR_FrgE.S 2912.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/bd1b3df1-f056-40c1-aded-be7185154408___JR_FrgE.S 8779.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/bd6f574a-e0cc-4293-af21-3949e9bf3a8e___JR_FrgE.S 8675.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/c4aac531-67ac-4117-8484-cfba3b091b7f___FREC_Pwd.M 5167.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/c8269293-ae8c-4ac0-8eb3-6574683f1b2e___JR_FrgE.S 8699.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/ca07e05a-e6a2-4651-b4fd-e54f0d1c58b7___JR_FrgE.S 2840.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/ced72cdb-0358-420c-abdd-1c94ba303435___FREC_Scab 3217.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/d250df8f-72ee-40c2-a620-0e0e0fa36971___FREC_Scab 3070.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/d32e96f1-8fde-4f6e-a558-7fdc1ab0807e___JR_FrgE.S 8676.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/d361ab89-3f57-4bfc-b2af-a6c5b75055af___JR_FrgE.S 8608.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/d40e4a34-1c9a-4971-acce-bb6ce2e14208___JR_FrgE.S 8654.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/d6a4afb8-a539-4851-b29f-2469a48d8591___JR_FrgE.S 8772.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/d734401a-6948-4be6-bfe7-1469d8c910f7___JR_FrgE.S 8732.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/d8aeb323-17d2-4123-9988-3c2346558bc6___FREC_Scab 2996.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/dbf66e2f-cf58-418c-9dcd-14254af3ddb1___FREC_Scab 2934.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/dd73bcb6-849f-4df3-9939-6893d07b2b45___JR_FrgE.S 8572.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/e11f6e9d-abff-4da2-864e-45f9aa2df34b___JR_FrgE.S 3072.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/e2da6207-2cfa-4620-8569-2f4c57a34f30___JR_FrgE.S 8682.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/e4999654-a4e5-4038-bb7f-d69f824a0505___JR_FrgE.S 8728.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/e90a2dde-185e-46e4-82ad-ce94bf0100b7___JR_FrgE.S 2746.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/e956f107-ce57-4996-82a1-2336be5943c0___JR_FrgE.S 8704.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/e9df76bc-d175-42c9-990e-6e6c5f5ac5ce___JR_FrgE.S 8663.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/ecbac6b5-e07f-4a0d-a670-1d3b97f01104___FREC_Scab 3168.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/ecd4b7b6-2418-4fc0-ab1f-c63c7a61fac6___JR_FrgE.S 8672.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/f3f1e50a-4e84-4147-b10c-09283a2feddd___JR_FrgE.S 8713.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/f3ff804e-bca4-4a23-9af9-1f5b8c5c9980___JR_FrgE.S 3053.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/f6bb0a43-56e1-423a-9da5-0e2e71f0d9a6___FREC_Pwd.M 5149.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/f770ff71-9ac5-46ef-8b66-65ba246bb952___JR_FrgE.S 8702.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/f887b059-f797-442d-b2b6-a9cab0f76f43___FREC_Scab 3169.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/f9ec74fa-f27f-4185-a89c-0613319e382b___JR_FrgE.S 8640.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/fb9d8933-5a5b-4553-a75e-dc50efc35975___JR_FrgE.S 8686.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Unhealthy_Leaves/fd437fb9-f319-4f40-9142-b8800bccd21e___FREC_Pwd.M 5142.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-01-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-02-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-02-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-03-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-03-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-03-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-03-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-04-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-04-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-05-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-05-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-05-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-06-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-06-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-07-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-07-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-08-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-08-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-08-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-09-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-10-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-10-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-11-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-11-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-11-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-12-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-13-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-13-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-14-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-14-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-15-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-15-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-15-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-16-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-16-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-16-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-16-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-17-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-17-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-17-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-18-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-18-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-19-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-19-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-19-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-20-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-20-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-21-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-21-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-22-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-22-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-22-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-22-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-23-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-23-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-24-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-24-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-24-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-25-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-25-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-25-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-25-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-26-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-26-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-27-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-28-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-28-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-28-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-28-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-29-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/ny1053-29-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-01-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-01-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-02-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-02-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-02-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-06-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-06-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-09-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-09-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-09-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1226-09-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1227-01-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1227-01-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1227-01-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1227-02-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1227-04-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1227-05-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1227-05-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1227-05-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1227-06-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1228-05-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1228-05-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1228-06-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1228-06-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1228-07-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1228-07-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1228-09-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb1228-09-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Healthy_Leaves/wb8002-06-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/0340dc35-5215-48ab-8db7-06af99fcb358___FREC_Scab 2966.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/085625a8-236d-4f71-bd40-78e3e4f24eb0___JR_FrgE.S 2732.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/0db71c1d-93d7-4481-b0d0-b73f995131a9___FREC_Scab 2976.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/1ce40e9f-cddc-4939-8e58-7a8235d9b28a___JR_FrgE.S 3019.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/2101e5e6-2932-4ac0-8879-59885fc01256___JR_FrgE.S 2769.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/24420d48-c47b-4e67-959a-bf28131abbdc___JR_FrgE.S 2811.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/2478fee4-ef3a-4638-8641-f5524246f29a___JR_FrgE.S 2951.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/24cdceb7-e70a-4164-9cd4-72b514771abf___JR_FrgE.S 2962.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/26b71abd-6648-4d92-a36d-92353bc09966___JR_FrgE.S 2899.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/270dd6be-95f4-4fd1-8423-b698663b3f72___FREC_Scab 2954.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/2902e85c-1705-423b-bb02-80e2d93bc54e___JR_FrgE.S 2922.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/2d4c8a12-a34c-4c8b-b357-271d87532ece___FREC_Scab 3090.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/31a20d19-d927-481d-97d9-4db50595c36e___JR_FrgE.S 2867.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/337ea111-17e2-470d-8fae-1fe8c61c13dc___JR_FrgE.S 2985.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/35ca99d4-5913-457a-b09c-3e90f6ef98a3___JR_FrgE.S 2947.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/3d33710d-c091-4dae-a491-ef813ea2d34b___JR_FrgE.S 2885.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/3eb26abb-a392-4cc4-9be2-d5e4bb8f3660___FREC_Scab 2969.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/3ee8f19d-38a4-4e9d-adc1-c8ab5e95ba60___JR_FrgE.S 2839.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/4186abb2-d07c-495c-9596-db575c3f7051___JR_FrgE.S 2891.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/427bd918-f362-48d9-9903-4e7197e87a87___JR_FrgE.S 3034.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/45512c84-e453-459c-b12f-1d08ce44001b___FREC_Scab 3072.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/456a01fc-8db6-4068-96cb-3b1e4e5f77f1___JR_FrgE.S 2768.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/47b996a0-b66a-4842-9da2-249ea1d62c38___JR_FrgE.S 2814.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/47f6d143-687b-4755-88a0-932c985a2ee6___JR_FrgE.S 2785.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/4a79c093-e813-4854-ba58-5b9e2831c7f0___JR_FrgE.S 2764.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/4abca5eb-2376-4551-be42-25bbb5400fc7___FREC_Scab 3268.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/4b934731-815b-461f-a252-a02f198f91ab___JR_FrgE.S 3032.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/4cdea367-e77f-4d29-a99c-23ec18260ee9___JR_FrgE.S 3066.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/4eeaca51-3ca2-4afe-884a-d65c2e31e452___JR_FrgE.S 3026.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/51f4101a-e126-4e3f-a06d-67befea24921___JR_FrgE.S 2939.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/5412de7d-df5d-4a05-be4b-e108811c4a3e___JR_FrgE.S 2820.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/54b4c0b5-c1e6-445b-8cdf-9c11c3b76e0d___FREC_Pwd.M 5145.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/55a48eef-2f73-458f-ab98-7d5110a4ea1b___JR_FrgE.S 2821.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/56d4cd7c-cb82-4944-b8a6-78ad6502b339___JR_FrgE.S 2955.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/58c65e96-71e6-4176-bf47-24b529fa3aa6___JR_FrgE.S 8716.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/59cb2470-1e5e-4828-90f2-a22dacbb0fd6___JR_FrgE.S 8594.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/5db69c6b-f9c9-4a3f-b47a-ca6449023bdd___JR_FrgE.S 2757.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/64d43490-e345-4690-8232-071bf0174895___JR_FrgE.S 3031.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/6af653b0-6a01-458c-bb17-5ee1b76115f4___JR_FrgE.S 2753.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/6af96fb3-002f-48b3-a2e8-fb5cf30dfa63___JR_FrgE.S 2998.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/6bda7e61-7fff-42d8-b7f4-e304adde45b8___JR_FrgE.S 2954.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/6ce1eb43-e41c-4eb0-9440-db5a955ab7b6___JR_FrgE.S 2919.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/6e21042a-928f-4e40-81bf-3a103ff52765___JR_FrgE.S 2938.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/717c4f62-f05f-4345-a5d7-3b34f3a2efb6___JR_FrgE.S 2836.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/723e8edc-3701-4ba1-bda2-7e0ebd535797___JR_FrgE.S 2837.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/7375bf36-7a8e-4fc5-8ee8-0bee7bfb3574___JR_FrgE.S 2874.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/74dfd7d6-e78e-47d9-8530-35acab5cd01f___JR_FrgE.S 3027.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/769283e3-f7ec-4e62-b907-4b22d1bda1ea___JR_FrgE.S 8618.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/78f8b36a-5126-4105-9699-39387015452f___FREC_Scab 2983.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/7be1e0a3-01d0-40c3-9628-f69952550267___FREC_Scab 3263.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/7c9765f6-d792-4621-a01e-0a1b4e550ada___JR_FrgE.S 2862.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/7dd50c96-8c45-4a38-bb17-e382cd5a3578___JR_FrgE.S 2829.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/7ed79254-3e04-4e08-9c80-088cd9d7d8c9___FREC_Scab 3310.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/7efdde34-c75b-40bc-92ef-48de08ec0709___FREC_Scab 3027.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/8371e040-cf1b-4c28-a52c-db9c10ad9465___JR_FrgE.S 3007.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/86aceb2d-8be8-4077-b79f-4178dcb970c7___FREC_Pwd.M 5132.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/898348ae-7cf3-4be6-9020-9b892558d4e9___JR_FrgE.S 2729.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/899768af-a460-4c1d-9889-afd2536e7238___JR_FrgE.S 2957.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/8d816370-cd56-4eb4-8d73-f9966e1853c6___JR_FrgE.S 2882.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/8ef1ae5f-e7e1-481d-a2ee-946d9ea29c01___JR_FrgE.S 2932.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/9675b0f0-4169-495a-b285-67fbeeacf873___JR_FrgE.S 8621.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/9db24caa-7d1e-4b4d-a5fd-ddc794e48ec4___JR_FrgE.S 2980.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/9efcd800-e927-4595-8eb8-26d36524242a___FREC_Scab 3026.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/a2d623ff-8e4d-40e3-a6c5-3d61e7355f92___FREC_Scab 2949.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/a3fddb87-e0d3-4ebb-8a5e-2b7bc9c33ee8___JR_FrgE.S 3084.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/a716360d-b3c2-4fcb-9ac0-98c5f3cc429b___JR_FrgE.S 2810.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/a9d80158-0e41-4e0d-8a6b-ec0df3a83ed4___JR_FrgE.S 2845.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/adfdba4a-a725-4c5b-8b1c-96e8b20baa7b___FREC_Scab 3265.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/ae035eb1-0214-4964-b018-14fca52713fc___FREC_Scab 3166.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/b371e9c4-177b-4bfb-9430-e14f9f30a06d___JR_FrgE.S 2803.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/b3d4d826-24df-4033-b9ca-fd5625d68f0d___JR_FrgE.S 2994.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/b98ecede-7f6f-4e39-a761-4dc37699507b___FREC_Scab 2971.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/ba325c11-e91c-4f5e-9ae0-76f8f0bb24df___FREC_Scab 3523.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/c0bfed2f-ace7-44dd-9410-440b5eea4d89___FREC_Scab 3266.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/c46d0eff-8a56-4655-9940-93a323c7154a___JR_FrgE.S 3033.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/c7459ae0-0430-4e16-8741-fc71629f8357___JR_FrgE.S 3057.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/c7f47cac-6806-4522-8e64-b633250cedfc___FREC_Pwd.M 5164.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/cc729eed-8d8e-4a23-9b27-db78e418543d___FREC_Scab 3092.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/cc73875e-54c2-49a1-91bb-f2bc85a93f8f___JR_FrgE.S 2747.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/d197373c-af39-4000-aa28-cab65fafa361___JR_FrgE.S 2959.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/d2313a95-61dd-45de-a8b8-3c2992e2b97f___JR_FrgE.S 8652.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/d240fec5-9b1e-4b36-a7df-d0007d0ebfcb___JR_FrgE.S 2929.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/d30f9b23-402d-4c3f-bdf7-406c9e35d038___JR_FrgE.S 8715.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/d3dab897-b9de-4ec4-a335-db2f36a64011___JR_FrgE.S 2918.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/d842b34b-d2ab-48fc-9e78-ef586308c359___FREC_Scab 2982.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/d8735c39-eb57-460b-bff1-7946a6d3a543___JR_FrgE.S 2935.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/e0cafae6-9957-4f28-8a9f-70fae53d289d___JR_FrgE.S 2813.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/e0ee140b-d60c-4b08-ae6f-e44c5c31fbc8___JR_FrgE.S 2817.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/e7cca27e-405c-4b21-9e61-f0c3ca6ee1c4___JR_FrgE.S 2977.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/ee7a3b7f-0bda-47e7-b211-734166bb6973___JR_FrgE.S 3030.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/f3b61d33-8875-46a0-be57-ad3bda4cb5c6___FREC_Scab 3243.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/f3bbe1b6-4a5c-45d4-9660-d24b8c43f2fc___JR_FrgE.S 2806.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/f6c9080a-95af-48f8-8178-0be757d92d20___JR_FrgE.S 2982.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/f7565e18-4946-4049-a1cd-ded7d3c09cef___JR_FrgE.S 2755.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/f83c1286-8bdb-48e6-ac8f-bd8a5209afc7___JR_FrgE.S 3001.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/f8e48799-c566-4b86-b7c8-a0e290fb7f25___FREC_Scab 3167.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/f9b7fc98-caee-4bb1-ae7b-1e9981ba6d72___JR_FrgE.S 2990.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/fb8255a6-e05d-44d3-a115-80c1e55009bd___JR_FrgE.S 3074.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/fdcf5330-6e9d-4fde-9284-1ac4e7b0fa30___JR_FrgE.S 2981.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training/Unhealthy_Leaves/ff0f9b3a-4ef4-4c38-9a23-516beff99192___JR_FrgE.S 3048.JPG" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,12 +419,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
       <file leaf-file-name="FinalProject.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FinalProject.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1580">
-              <caret line="117" selection-start-line="117" selection-end-line="117" />
+            <state relative-caret-position="363">
+              <caret line="103" column="2" lean-forward="true" selection-start-line="103" selection-start-column="2" selection-end-line="103" selection-end-column="2" />
               <folding>
                 <element signature="e#29#47#0" expanded="true" />
               </folding>
@@ -23,21 +432,122 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Android_app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Android_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CameraApp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CameraApp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <folding>
+                <element signature="e#76#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anothercameratest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/anothercameratest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera_app/buildozer/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+              <folding>
+                <element signature="e#443#453#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testcamera.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcamera.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="camera.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/plyer/facades/camera.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2320">
+              <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/plyer/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2465">
+              <caret line="87" selection-start-line="87" selection-end-line="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FinalProject.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FinalProject.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/FinalProject.ipynb" />
+        <option value="$PROJECT_DIR$/Android_app.py" />
+        <option value="$PROJECT_DIR$/camera_app/CameraApp.py" />
+        <option value="$PROJECT_DIR$/camera_app/main.py" />
+        <option value="$PROJECT_DIR$/testcamera.py" />
+        <option value="$PROJECT_DIR$/Camera.py" />
+        <option value="$PROJECT_DIR$/anothercameratest.py" />
+        <option value="$PROJECT_DIR$/CameraApp.py" />
+        <option value="$PROJECT_DIR$/camera_app/buildozer/main.py" />
         <option value="$PROJECT_DIR$/FinalProject.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="292" />
-    <option name="y" value="23" />
-    <option name="width" value="1400" />
-    <option name="height" value="1055" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1992" />
+    <option name="y" value="48" />
+    <option name="width" value="1853" />
+    <option name="height" value="2112" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -49,6 +559,17 @@
             <path>
               <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="camera_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="camera_app" type="462c0819:PsiDirectoryNode" />
+              <item name="buildozer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -73,7 +594,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.FinalProject">
+    <configuration name="Android_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FinalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Android_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="CameraApp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FinalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CameraApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="FinalProject" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FinalProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,9 +649,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="anothercameratest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FinalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anothercameratest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FinalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/camera_app/buildozer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/camera_app/buildozer/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.CameraApp" />
+      <item itemvalue="Python.anothercameratest" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.Android_app" />
+      <item itemvalue="Python.FinalProject" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.FinalProject" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.Android_app" />
+        <item itemvalue="Python.CameraApp" />
+        <item itemvalue="Python.anothercameratest" />
       </list>
     </recent_temporary>
   </component>
@@ -112,43 +716,272 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="-8" width="3710" height="2168" extended-state="6" />
+    <frame x="1992" y="48" width="1853" height="2112" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986523" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22989747" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3101998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986523" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941777" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FinalProject.py</url>
-          <line>55</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FinalProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10788">
+          <caret line="398" lean-forward="true" selection-start-line="398" selection-end-line="398" />
+          <folding>
+            <element signature="e#29#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CameraApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="e#76#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anothercameratest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_app/buildozer/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="e#443#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcamera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/plyer/facades/camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2320">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/plyer/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13108">
+          <caret line="472" selection-start-line="472" selection-end-line="472" />
+          <folding>
+            <element signature="e#29#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CameraApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="e#76#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anothercameratest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcamera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/plyer/facades/camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2320">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/plyer/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_app/buildozer/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1943">
+          <caret line="73" column="41" lean-forward="true" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
+          <folding>
+            <element signature="e#443#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13108">
+          <caret line="472" selection-start-line="472" selection-end-line="472" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/plyer/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_app/main.py" />
+    <entry file="file://$PROJECT_DIR$/FinalProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13108">
+          <caret line="472" selection-start-line="472" selection-end-line="472" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CameraApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <element signature="e#76#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2813">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
@@ -156,10 +989,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FinalProject.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/plyer/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_app/CameraApp.py" />
+    <entry file="file://$PROJECT_DIR$/camera_app/main.py" />
+    <entry file="file://$PROJECT_DIR$/Camera.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/plyer/facades/camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2320">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anothercameratest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CameraApp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="e#76#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcamera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera_app/buildozer/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="e#443#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FinalProject.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1580">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        <state relative-caret-position="363">
+          <caret line="103" column="2" lean-forward="true" selection-start-line="103" selection-start-column="2" selection-end-line="103" selection-end-column="2" />
           <folding>
             <element signature="e#29#47#0" expanded="true" />
           </folding>
